@@ -1,2 +1,2 @@
 # HandwrittenDigitRecognitionMNIST
-ML Project Batch 2
+ML Project 
